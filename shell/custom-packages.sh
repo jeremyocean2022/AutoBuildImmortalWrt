@@ -48,5 +48,3 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-netwizard luci-i18n-netwizard-zh-cn"
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES easytier luci-app-easytier"
 # 统一文件共享
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES webdav2 luci-app-unishare"
-# 去除组件
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES -filebrowser -luci-app-filebrowser-go -luci-i18n-filebrowser-go-zh-cn 
